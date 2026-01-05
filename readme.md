@@ -7,10 +7,6 @@ I enjoy playing all kinds of card games. Magic is my favorite. I mostly play Esp
 I also enjoy playing video games - grand strategy and 4X games like Total War, Stellaris, and Civ are my favorites, but I play games of all kinds. <br><br>
 You can contact me at:&nbsp;&nbsp;<a href="mailto:james@infomanc3r.com">james@infomanc3r.com</a>
 
-<h2>🏋&nbsp;Current Goals&nbsp;🌱</h2>
-Currently I am learning Elixir + the Phoenix Framework.<br><br>
-I am upskilling nearly every day with the goal of becoming a backend software engineer that designs, builds, and maintains serverside applications as well as cloud services. With previous experience in object-oriented programming acquired during my time as a research assistant at the University of Texas Virtual Reality Lab and as a startup developer working on an educational app for the Vive and Oculus VR devices, I have felt more than comfortable returning to the fray after a career hiatus during which I paid the bills as a professional poker player - an endeavor that required an incredible amount of discipline and ability, both teaching and sharpening a multitude of skills that transfer remarkably well to the professional world.
-
 <h2>🛠 Tools and Languages ⚡</h2>
 <p align="left">
 <a href="https://www.java.com/en/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="75" height="75"/></a> &nbsp;
@@ -34,3 +30,4 @@ I am upskilling nearly every day with the goal of becoming a backend software en
 <!--https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original-wordmark.svg -->
   
 </p>
+
