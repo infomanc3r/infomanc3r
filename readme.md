@@ -1,5 +1,7 @@
 ![banner](https://github.com/user-attachments/assets/9e5ab2d7-b5a2-472e-a50b-7304b1687347)
 
+<h2></h2>
+
 I am guided by a relentless curiosity. <br><br>
 I live in the Lone Star State with my dog, Frito.<br><br>
 I enjoy playing all kinds of card games. Magic is my favorite. I mostly play Esper colors - primary blue and secondary black/white. <br><br>
@@ -29,5 +31,6 @@ You can contact me at:&nbsp;&nbsp;<a href="mailto:james@infomanc3r.com">james@in
 <!--https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original-wordmark.svg -->
   
 </p>
+
 
 
